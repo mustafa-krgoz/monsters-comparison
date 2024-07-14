@@ -1,36 +1,43 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-  background: url("../images/marvel.jpg") no-repeat center center fixed;
+  background: url("../images/canavarlar.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  font-family: Arial, sans-serif; /* Örnek olarak Arial fontu kullanabilirsiniz */
 }
 
 h1 {
-    font-size: 35px;
+  font-size: 35px;
+  text-align: center; /* Başlığı merkezle */
+  color: #f5f5f5; /* Başlık rengi */
 }
 
 button {
-	background-color: black; 
-    border: solid 1px;
-    border-color: white;
-    color: white;
-    padding: 15px 15px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+  background-color: black;
+  border: solid 1px;
+  border-color: white;
+  color: white;
+  padding: 15px 20px; /* Butonun iç boşluğunu ayarla */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer; /* İmleci el göstergesi yap */
 }
+
 #fight {
-	margin-top: 80px;
+  margin-top: 80px; /* Boğuşma alanının üst boşluğunu ayarla */
 }
+
 .par {
-	font-size: 15px;
+  font-size: 15px;
   margin-top: 10px;
   margin-bottom: 10px;
+  color: #f5f5f5; /* Paragraf rengi */
 }
 
