@@ -1,0 +1,72 @@
+[
+  {
+      "cnv1": {
+          "Yükseklik": "25 cm",
+          "Renk": "Yeşil",
+          "Süper Güç": "Öfke Patlaması",
+          "Hız": "35 km/s",
+          "Dayanıklılık": "Orta",
+          "Soyut Özellikler": {
+              "Zayıflıklar": ["Ses", "Parlak Işık"],
+              "Silahlar": ["Öfke Dalgası", "Zehirli Tırnaklar"],
+              "Zırh": "Deri Zırh (Orta koruma)",
+              "Saldırılar": ["Öfke Dalgası", "Zehirli Tırnaklar"],
+              "Yetenekler": ["Uçuş", "Telepati"],
+              "Güçler": ["Hızlı Hareket", "Zehirli Saldırılar"]
+          }
+      }
+  },
+  {
+      "cnv2": {
+          "Yükseklik": "28 cm",
+          "Renk": "Mavi",
+          "Süper Güç": "Elektroşok",
+          "Hız": "38 km/s",
+          "Dayanıklılık": "Düşük",
+          "Soyut Özellikler": {
+              "Zayıflıklar": ["Su", "Yüksek Sıcaklık"],
+              "Silahlar": ["Elektrik Şokları", "Keskin Pençeler"],
+              "Zırh": "Enerji Kalkanı (Düşük koruma)",
+              "Saldırılar": ["Elektrik Şokları", "Keskin Pençe Saldırısı"],
+              "Yetenekler": ["Elektrik Manipülasyonu", "Hızlı Refleksler"],
+              "Güçler": ["Yüksek Hız", "Elektrik Yüklemeleri"]
+          }
+      }
+  },
+  {
+      "cnv3": {
+          "Yükseklik": "30 cm",
+          "Renk": "Sarı",
+          "Süper Güç": "Ateş Fırlatmak",
+          "Hız": "40 km/s",
+          "Dayanıklılık": "Yüksek",
+          "Soyut Özellikler": {
+              "Zayıflıklar": ["Soğuk", "Su"],
+              "Silahlar": ["Alev Püskürtme", "Pençe"],
+              "Zırh": "Çelik Zırh (Yüksek koruma)",
+              "Saldırılar": ["Alev Saldırısı", "Pençe Saldırısı"],
+              "Yetenekler": ["Görünmezlik", "Şekil Değiştirme"],
+              "Güçler": ["Yüksek Dayanıklılık", "Güçlü Saldırılar"]
+          }
+      }
+  },
+  {
+      "cnv4": {
+          "Yükseklik": "27 cm",
+          "Renk": "Kırmızı",
+          "Süper Güç": "Telekinezi",
+          "Hız": "36 km/s",
+          "Dayanıklılık": "Orta",
+          "Soyut Özellikler": {
+              "Zayıflıklar": ["Ağır Nesneler", "Düşük Enerji"],
+              "Silahlar": ["Zihinsel Saldırılar", "Telekinezik Kuvvet"],
+              "Zırh": "Eterik Kalkan (Orta koruma)",
+              "Saldırılar": ["Zihinsel Saldırılar", "Nesne Manipülasyonu"],
+              "Yetenekler": ["Zihinsel Manipülasyon", "Uzaktan Eşya Kontrolü"],
+              "Güçler": ["Telekinezi", "Zihinsel Engellemeler"]
+          }
+      }
+  }
+]
+
+  

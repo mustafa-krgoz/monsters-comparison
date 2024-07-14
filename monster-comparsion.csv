@@ -1,0 +1,27 @@
+Adi;;Y�kseklik;;Renk;;S�per G��;;H�z;;Dayan�kl�l�k
+Canavar1;;30 cm;;Sar�;;Ate� F�rlatmak;;40 km/s;;Y�ksek
+Canavar2;;25 cm;;Ye�il;;�fke Patlamas�;;35 km/s;;Orta
+
+start_node_name;; end_node_name;; relationship_type;; relationship_properties
+Canavar 1;; "Soğuk";; "HAS_WEAKNESS";;""
+Canavar 1;; "Su";; "HAS_WEAKNESS";;""
+Canavar 1;; "Alev Püskürtme";; "HAS_WEAPON";;""
+Canavar 1;; "Pençe";; "HAS_WEAPON";;""
+Canavar 1;; "Çelik Zırh";; "HAS_ARMOR";;"{ type: \"Çelik Zırh\", protection: \"Yüksek\" }"
+Canavar 1;; "Alev Saldırısı";; "HAS_ATTACK";;""
+Canavar 1;; "Pençe Saldırısı";; "HAS_ATTACK";;""
+Canavar 1;; "Görünmezlik";; "HAS_ABILITY";;""
+Canavar 1;; "Şekil Değiştirme";; "HAS_ABILITY";;""
+Canavar 1;; "Yüksek Dayanıklılık";; "HAS_STRENGTH";;""
+Canavar 1;; "Güçlü Saldırılar";; "HAS_STRENGTH";;""
+Canavar 2;; "Ses";; "HAS_WEAKNESS";;""
+Canavar 2;; "Parlak Işık";; "HAS_WEAKNESS";;""
+Canavar 2;; "Öfke Dalgası";; "HAS_WEAPON";;""
+Canavar 2;; "Zehirli Tırnaklar";; "HAS_WEAPON";;""
+Canavar 2;; "Deri Zırh";; "HAS_ARMOR";;"{ type: \"Deri Zırh\", protection: \"Orta\" }"
+Canavar 2;; "Öfke Dalgası";; "HAS_ATTACK";;""
+Canavar 2;; "Zehirli Tırnaklar";; "HAS_ATTACK";;""
+Canavar 2;; "Uçuş";; "HAS_ABILITY";;""
+Canavar 2;; "Telepati";; "HAS_ABILITY";;""
+Canavar 2;; "Hızlı Hareket";; "HAS_STRENGTH";;""
+Canavar 2;; "Zehirli Saldırılar";; "HAS_STRENGTH";;""
